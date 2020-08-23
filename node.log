@@ -1,0 +1,490 @@
+2019-07-01 17:11:18,992 [ MY CHANNEL ID IS ] : 1
+2019-07-01 17:11:18,992 Protocol: ultrasonic-multichannel [v5]
+2019-07-01 17:11:19,009 State changed from Stopped to Running
+2019-07-01 17:11:21,110 [ MY CHANNEL ID IS ] : 1
+2019-07-01 17:11:21,110 Protocol: ultrasonic-multichannel [v5]
+2019-07-01 17:11:21,131 State changed from Stopped to Running
+2019-07-01 17:11:21,890 State changed from Running to Stopped
+2019-07-01 17:11:22,747 [ MY CHANNEL ID IS ] : 1
+2019-07-01 17:11:22,748 Protocol: ultrasonic-multichannel [v5]
+2019-07-01 17:11:22,767 State changed from Stopped to Running
+2019-07-01 17:11:24,943 [ MY CHANNEL ID IS ] : 1
+2019-07-01 17:11:24,944 Protocol: ultrasonic-multichannel [v5]
+2019-07-01 17:11:27,085 [ MY CHANNEL ID IS ] : 1
+2019-07-01 17:11:27,085 Protocol: ultrasonic-multichannel [v5]
+2019-07-01 17:11:43,603 [ MY CHANNEL ID IS ] : 1
+2019-07-01 17:11:43,604 Protocol: ultrasonic-multichannel [v5]
+2019-07-01 17:11:43,620 State changed from Stopped to Running
+2019-07-01 17:11:45,462 [ MY CHANNEL ID IS ] : 1
+2019-07-01 17:11:45,462 Protocol: ultrasonic-multichannel [v5]
+2019-07-01 17:11:45,482 State changed from Stopped to Running
+2019-07-01 17:11:46,518 State changed from Running to Stopped
+2019-07-01 17:11:47,901 [ MY CHANNEL ID IS ] : 1
+2019-07-01 17:11:47,901 Protocol: ultrasonic-multichannel [v5]
+2019-07-01 17:11:47,923 State changed from Stopped to Running
+2019-07-01 17:11:49,565 [ MY CHANNEL ID IS ] : 1
+2019-07-01 17:11:49,565 Protocol: ultrasonic-multichannel [v5]
+2019-07-01 17:11:52,557 [ MY CHANNEL ID IS ] : 1
+2019-07-01 17:11:52,557 Protocol: ultrasonic-multichannel [v5]
+2019-07-01 17:11:59,126 [ MY CHANNEL ID IS ] : 1
+2019-07-01 17:11:59,127 Protocol: ultrasonic-multichannel [v5]
+2019-07-01 17:11:59,145 State changed from Stopped to Running
+2019-07-01 17:12:20,167 State changed from Running to Sending
+2019-07-01 17:12:21,974 State changed from Sending to Running
+2019-07-01 17:12:21,976 Sent: #1 [1]
+2019-07-01 17:12:23,342 State changed from Running to Receiving
+2019-07-01 17:12:23,342 Receiving data [7]
+2019-07-01 17:12:24,656 State changed from Receiving to Running
+2019-07-01 17:12:25,178 State changed from Running to Sending
+2019-07-01 17:12:28,353 State changed from Sending to Running
+2019-07-01 17:12:28,353 Sent: {"Temp" [1]
+2019-07-01 17:12:28,686 State changed from Running to Sending
+2019-07-01 17:12:31,873 State changed from Sending to Running
+2019-07-01 17:12:31,874 Sent: : 37.5, [1]
+2019-07-01 17:12:32,194 State changed from Running to Sending
+2019-07-01 17:12:35,391 State changed from Sending to Running
+2019-07-01 17:12:35,392 Sent:  "Humi" [1]
+2019-07-01 17:12:35,706 State changed from Running to Sending
+2019-07-01 17:12:38,923 State changed from Sending to Running
+2019-07-01 17:12:38,924 Sent: : 1.875 [1]
+2019-07-01 17:12:39,220 State changed from Running to Sending
+2019-07-01 17:12:42,454 State changed from Sending to Running
+2019-07-01 17:12:42,455 Sent: , "time [1]
+2019-07-01 17:12:42,731 State changed from Running to Sending
+2019-07-01 17:12:45,886 State changed from Sending to Running
+2019-07-01 17:12:45,886 Sent: ": "201 [1]
+2019-07-01 17:12:46,236 State changed from Running to Sending
+2019-07-01 17:12:49,417 State changed from Sending to Running
+2019-07-01 17:12:49,418 Sent: 9-07-01 [1]
+2019-07-01 17:12:49,741 State changed from Running to Sending
+2019-07-01 17:12:52,931 State changed from Sending to Running
+2019-07-01 17:12:52,932 Sent:  17:12: [1]
+2019-07-01 17:12:53,246 State changed from Running to Sending
+2019-07-01 17:12:56,458 State changed from Sending to Running
+2019-07-01 17:12:56,459 Sent: 25", "C [1]
+2019-07-01 17:12:56,751 State changed from Running to Sending
+2019-07-01 17:12:59,875 State changed from Sending to Running
+2019-07-01 17:12:59,876 Sent: O2": 0. [1]
+2019-07-01 17:13:00,256 State changed from Running to Sending
+2019-07-01 17:13:03,399 State changed from Sending to Running
+2019-07-01 17:13:03,400 Sent: 325, "N [1]
+2019-07-01 17:13:03,760 State changed from Running to Sending
+2019-07-01 17:13:07,022 State changed from Sending to Running
+2019-07-01 17:13:07,022 Sent: O2": 0. [1]
+2019-07-01 17:13:07,264 State changed from Running to Sending
+2019-07-01 17:13:09,666 State changed from Sending to Running
+2019-07-01 17:13:09,667 Sent: 042} [1]
+2019-07-01 17:13:10,768 Changing cts #x
+2019-07-01 17:13:10,770 in sleep for  : 29
+2019-07-01 17:13:59,039 State changed from Running to Receiving
+2019-07-01 17:13:59,039 Receiving data [1]
+2019-07-01 17:14:00,334 State changed from Receiving to Running
+2019-07-01 17:14:01,351 State changed from Running to Receiving
+2019-07-01 17:14:01,352 Receiving data [7]
+2019-07-01 17:14:02,750 State changed from Receiving to Running
+2019-07-01 17:14:03,877 State changed from Running to Receiving
+2019-07-01 17:14:03,877 Receiving data [1]
+2019-07-01 17:14:06,668 State changed from Receiving to Running
+2019-07-01 17:14:07,406 State changed from Running to Receiving
+2019-07-01 17:14:07,406 Receiving data [1]
+2019-07-01 17:14:10,230 State changed from Receiving to Running
+2019-07-01 17:14:10,822 State changed from Running to Sending
+2019-07-01 17:14:12,612 State changed from Sending to Running
+2019-07-01 17:14:12,614 Sent: #1 [1]
+2019-07-01 17:14:14,475 State changed from Running to Receiving
+2019-07-01 17:14:14,475 Receiving data [1]
+2019-07-01 17:14:17,207 State changed from Receiving to Running
+2019-07-01 17:14:18,014 State changed from Running to Receiving
+2019-07-01 17:14:18,015 Receiving data [1]
+2019-07-01 17:14:20,889 State changed from Receiving to Running
+2019-07-01 17:14:21,544 State changed from Running to Receiving
+2019-07-01 17:14:21,545 Receiving data [1]
+2019-07-01 17:14:24,371 State changed from Receiving to Running
+2019-07-01 17:14:25,081 State changed from Running to Receiving
+2019-07-01 17:14:25,081 Receiving data [1]
+2019-07-01 17:14:27,908 State changed from Receiving to Running
+2019-07-01 17:14:28,536 State changed from Running to Receiving
+2019-07-01 17:14:28,536 Receiving data [1]
+2019-07-01 17:14:31,249 State changed from Receiving to Running
+2019-07-01 17:14:31,922 State changed from Running to Receiving
+2019-07-01 17:14:31,923 Receiving data [1]
+2019-07-01 17:14:34,800 State changed from Receiving to Running
+2019-07-01 17:14:35,543 State changed from Running to Receiving
+2019-07-01 17:14:35,543 Receiving data [1]
+2019-07-01 17:14:37,849 State changed from Receiving to Sending
+2019-07-01 17:14:39,658 State changed from Sending to Running
+2019-07-01 17:14:39,658 Sent: #1 [1]
+2019-07-01 17:14:41,122 State changed from Running to Receiving
+2019-07-01 17:14:41,123 Receiving data [7]
+2019-07-01 17:14:42,453 State changed from Receiving to Running
+2019-07-01 17:14:42,630 State changed from Running to Receiving
+2019-07-01 17:14:42,630 Receiving data [1]
+2019-07-01 17:14:42,853 State changed from Receiving to Sending
+2019-07-01 17:14:46,103 State changed from Sending to Running
+2019-07-01 17:14:46,103 Sent: {"Temp" [1]
+2019-07-01 17:14:46,356 State changed from Running to Sending
+2019-07-01 17:14:49,524 State changed from Sending to Running
+2019-07-01 17:14:49,524 Sent: : 37.5, [1]
+2019-07-01 17:14:49,857 State changed from Running to Sending
+2019-07-01 17:14:53,021 State changed from Sending to Running
+2019-07-01 17:14:53,022 Sent:  "Humi" [1]
+2019-07-01 17:14:53,360 State changed from Running to Sending
+2019-07-01 17:14:55,960 State changed from Sending to Stopped
+2019-07-01 17:15:32,163 [ MY CHANNEL ID IS ] : 1
+2019-07-01 17:15:32,163 Protocol: ultrasonic-multichannel [v5]
+2019-07-01 17:15:32,180 State changed from Stopped to Running
+2019-07-01 17:15:33,623 [ MY CHANNEL ID IS ] : 1
+2019-07-01 17:15:33,624 Protocol: ultrasonic-multichannel [v5]
+2019-07-01 17:15:33,656 State changed from Stopped to Running
+2019-07-01 17:15:34,409 State changed from Running to Stopped
+2019-07-01 17:15:35,186 [ MY CHANNEL ID IS ] : 1
+2019-07-01 17:15:35,186 Protocol: ultrasonic-multichannel [v5]
+2019-07-01 17:15:35,203 State changed from Stopped to Running
+2019-07-01 17:15:35,341 State changed from Running to Stopped
+2019-07-01 17:15:37,085 [ MY CHANNEL ID IS ] : 1
+2019-07-01 17:15:37,086 Protocol: ultrasonic-multichannel [v5]
+2019-07-01 17:15:37,105 State changed from Stopped to Running
+2019-07-01 17:15:38,875 [ MY CHANNEL ID IS ] : 1
+2019-07-01 17:15:38,876 Protocol: ultrasonic-multichannel [v5]
+2019-07-01 17:15:38,892 State changed from Stopped to Running
+2019-07-01 17:15:39,878 State changed from Running to Stopped
+2019-07-01 17:15:40,513 [ MY CHANNEL ID IS ] : 1
+2019-07-01 17:15:40,513 Protocol: ultrasonic-multichannel [v5]
+2019-07-01 17:15:40,539 State changed from Stopped to Running
+2019-07-01 17:15:41,566 State changed from Running to Stopped
+2019-07-01 17:15:43,716 [ MY CHANNEL ID IS ] : 1
+2019-07-01 17:15:43,717 Protocol: ultrasonic-multichannel [v5]
+2019-07-01 17:15:43,734 State changed from Stopped to Running
+2019-07-01 17:15:45,535 [ MY CHANNEL ID IS ] : 1
+2019-07-01 17:15:45,535 Protocol: ultrasonic-multichannel [v5]
+2019-07-01 17:15:45,566 State changed from Stopped to Running
+2019-07-01 17:15:53,511 State changed from Running to Receiving
+2019-07-01 17:15:53,512 Receiving data [1]
+2019-07-01 17:15:54,925 State changed from Receiving to Running
+2019-07-01 17:15:55,959 State changed from Running to Receiving
+2019-07-01 17:15:55,960 Receiving data [7]
+2019-07-01 17:15:57,270 State changed from Receiving to Running
+2019-07-01 17:15:58,563 State changed from Running to Receiving
+2019-07-01 17:15:58,563 Receiving data [1]
+2019-07-01 17:16:01,461 State changed from Receiving to Running
+2019-07-01 17:16:02,104 State changed from Running to Receiving
+2019-07-01 17:16:02,104 Receiving data [1]
+2019-07-01 17:16:04,986 State changed from Receiving to Running
+2019-07-01 17:16:05,569 State changed from Running to Receiving
+2019-07-01 17:16:05,569 Receiving data [1]
+2019-07-01 17:16:05,586 State changed from Receiving to Sending
+2019-07-01 17:16:07,454 State changed from Sending to Running
+2019-07-01 17:16:07,455 Sent: #1 [1]
+2019-07-01 17:16:09,086 State changed from Running to Receiving
+2019-07-01 17:16:09,087 Receiving data [1]
+2019-07-01 17:16:11,958 State changed from Receiving to Running
+2019-07-01 17:16:12,626 State changed from Running to Receiving
+2019-07-01 17:16:12,626 Receiving data [1]
+2019-07-01 17:16:15,430 State changed from Receiving to Running
+2019-07-01 17:16:16,088 State changed from Running to Receiving
+2019-07-01 17:16:16,088 Receiving data [1]
+2019-07-01 17:16:18,952 State changed from Receiving to Running
+2019-07-01 17:16:19,611 State changed from Running to Receiving
+2019-07-01 17:16:19,612 Receiving data [1]
+2019-07-01 17:16:22,478 State changed from Receiving to Running
+2019-07-01 17:16:23,213 State changed from Running to Receiving
+2019-07-01 17:16:23,214 Receiving data [1]
+2019-07-01 17:16:26,027 State changed from Receiving to Running
+2019-07-01 17:16:26,599 State changed from Running to Receiving
+2019-07-01 17:16:26,599 Receiving data [1]
+2019-07-01 17:16:29,469 State changed from Receiving to Running
+2019-07-01 17:16:30,115 State changed from Running to Receiving
+2019-07-01 17:16:30,115 Receiving data [1]
+2019-07-01 17:16:33,049 State changed from Receiving to Running
+2019-07-01 17:16:33,621 State changed from Running to Sending
+2019-07-01 17:16:35,465 State changed from Sending to Running
+2019-07-01 17:16:35,466 Sent: #1 [1]
+2019-07-01 17:16:36,355 State changed from Running to Stopped
+2019-07-01 17:37:21,683 [ MY CHANNEL ID IS ] : 1
+2019-07-01 17:37:21,683 Protocol: ultrasonic-multichannel [v5]
+2019-07-01 17:37:21,716 State changed from Stopped to Running
+2019-07-01 17:37:23,321 [ MY CHANNEL ID IS ] : 1
+2019-07-01 17:37:23,321 Protocol: ultrasonic-multichannel [v5]
+2019-07-01 17:37:23,338 State changed from Stopped to Running
+2019-07-01 17:37:50,366 State changed from Running to Sending
+2019-07-01 17:37:52,160 State changed from Sending to Running
+2019-07-01 17:37:52,162 Sent: #1 [1]
+2019-07-01 17:38:17,398 State changed from Running to Sending
+2019-07-01 17:38:19,200 State changed from Sending to Running
+2019-07-01 17:38:19,200 Sent: #1 [1]
+2019-07-01 17:38:20,593 State changed from Running to Receiving
+2019-07-01 17:38:20,593 Receiving data [7]
+2019-07-01 17:38:21,980 State changed from Receiving to Running
+2019-07-01 17:38:22,407 State changed from Running to Sending
+2019-07-01 17:38:25,633 State changed from Sending to Running
+2019-07-01 17:38:25,633 Sent: {"Humi" [1]
+2019-07-01 17:38:25,926 State changed from Running to Sending
+2019-07-01 17:38:29,234 State changed from Sending to Running
+2019-07-01 17:38:29,236 Sent: : 1.875 [1]
+2019-07-01 17:38:29,436 State changed from Running to Sending
+2019-07-01 17:38:32,650 State changed from Sending to Running
+2019-07-01 17:38:32,650 Sent: , "time [1]
+2019-07-01 17:38:32,945 State changed from Running to Sending
+2019-07-01 17:38:36,164 State changed from Sending to Running
+2019-07-01 17:38:36,165 Sent: ": "201 [1]
+2019-07-01 17:38:36,461 State changed from Running to Sending
+2019-07-01 17:38:39,671 State changed from Sending to Running
+2019-07-01 17:38:39,672 Sent: 9-07-01 [1]
+2019-07-01 17:38:39,966 State changed from Running to Sending
+2019-07-01 17:38:43,266 State changed from Sending to Running
+2019-07-01 17:38:43,266 Sent:  17:38: [1]
+2019-07-01 17:38:43,470 State changed from Running to Sending
+2019-07-01 17:38:46,687 State changed from Sending to Running
+2019-07-01 17:38:46,688 Sent: 22", "T [1]
+2019-07-01 17:38:46,976 State changed from Running to Sending
+2019-07-01 17:38:50,100 State changed from Sending to Running
+2019-07-01 17:38:50,100 Sent: emp": 3 [1]
+2019-07-01 17:38:50,477 State changed from Running to Sending
+2019-07-01 17:38:53,612 State changed from Sending to Running
+2019-07-01 17:38:53,613 Sent: 7.5, "N [1]
+2019-07-01 17:38:53,981 State changed from Running to Sending
+2019-07-01 17:38:57,127 State changed from Sending to Running
+2019-07-01 17:38:57,128 Sent: O2": 0. [1]
+2019-07-01 17:38:57,487 State changed from Running to Sending
+2019-07-01 17:39:00,654 State changed from Sending to Running
+2019-07-01 17:39:00,654 Sent: 042, "C [1]
+2019-07-01 17:39:00,993 State changed from Running to Sending
+2019-07-01 17:39:04,272 State changed from Sending to Running
+2019-07-01 17:39:04,273 Sent: O2": 0. [1]
+2019-07-01 17:39:04,498 State changed from Running to Sending
+2019-07-01 17:39:06,893 State changed from Sending to Running
+2019-07-01 17:39:06,894 Sent: 325} [1]
+2019-07-01 17:39:08,001 Changing cts #x
+2019-07-01 17:39:08,002 in sleep for  : 23
+2019-07-01 17:39:12,478 State changed from Running to Receiving
+2019-07-01 17:39:12,478 Receiving data [1]
+2019-07-01 17:39:13,837 State changed from Receiving to Running
+2019-07-01 17:39:14,701 State changed from Running to Receiving
+2019-07-01 17:39:14,701 Receiving data [7]
+2019-07-01 17:39:16,116 State changed from Receiving to Running
+2019-07-01 17:39:17,657 State changed from Running to Receiving
+2019-07-01 17:39:17,658 Receiving data [1]
+2019-07-01 17:39:20,529 State changed from Receiving to Running
+2019-07-01 17:39:21,198 State changed from Running to Receiving
+2019-07-01 17:39:21,199 Receiving data [1]
+2019-07-01 17:39:24,048 State changed from Receiving to Running
+2019-07-01 17:39:24,589 State changed from Running to Receiving
+2019-07-01 17:39:24,589 Receiving data [1]
+2019-07-01 17:39:27,468 State changed from Receiving to Running
+2019-07-01 17:39:28,061 State changed from Running to Receiving
+2019-07-01 17:39:28,062 Receiving data [1]
+2019-07-01 17:39:31,006 State changed from Receiving to Running
+2019-07-01 17:39:31,537 State changed from Running to Receiving
+2019-07-01 17:39:31,537 Receiving data [1]
+2019-07-01 17:39:34,454 State changed from Receiving to Running
+2019-07-01 17:39:35,130 State changed from Running to Receiving
+2019-07-01 17:39:35,131 Receiving data [1]
+2019-07-01 17:39:37,925 State changed from Receiving to Running
+2019-07-01 17:39:38,656 State changed from Running to Receiving
+2019-07-01 17:39:38,657 Receiving data [1]
+2019-07-01 17:39:41,460 State changed from Receiving to Running
+2019-07-01 17:39:42,157 State changed from Running to Receiving
+2019-07-01 17:39:42,158 Receiving data [1]
+2019-07-01 17:39:45,089 State changed from Receiving to Running
+2019-07-01 17:39:45,591 State changed from Running to Receiving
+2019-07-01 17:39:45,592 Receiving data [1]
+2019-07-01 17:39:48,373 State changed from Receiving to Running
+2019-07-01 17:39:49,226 State changed from Running to Receiving
+2019-07-01 17:39:49,226 Receiving data [1]
+2019-07-01 17:39:52,023 State changed from Receiving to Running
+2019-07-01 17:39:52,691 State changed from Running to Receiving
+2019-07-01 17:39:52,691 Receiving data [1]
+2019-07-01 17:39:55,464 State changed from Receiving to Running
+2019-07-01 17:39:56,131 State changed from Running to Receiving
+2019-07-01 17:39:56,132 Receiving data [1]
+2019-07-01 17:39:59,004 State changed from Receiving to Running
+2019-07-01 17:39:59,502 State changed from Running to Receiving
+2019-07-01 17:39:59,503 Receiving data [1]
+2019-07-01 17:40:01,617 State changed from Receiving to Running
+2019-07-01 17:40:04,043 State changed from Running to Sending
+2019-07-01 17:40:05,850 State changed from Sending to Running
+2019-07-01 17:40:05,850 Sent: #1 [1]
+2019-07-01 17:40:07,399 State changed from Running to Receiving
+2019-07-01 17:40:07,400 Receiving data [7]
+2019-07-01 17:40:08,689 State changed from Receiving to Running
+2019-07-01 17:40:09,051 State changed from Running to Sending
+2019-07-01 17:40:12,264 State changed from Sending to Running
+2019-07-01 17:40:12,265 Sent: {"Humi" [1]
+2019-07-01 17:40:12,555 State changed from Running to Sending
+2019-07-01 17:40:15,775 State changed from Sending to Running
+2019-07-01 17:40:15,776 Sent: : 1.875 [1]
+2019-07-01 17:40:16,059 State changed from Running to Sending
+2019-07-01 17:40:19,185 State changed from Sending to Running
+2019-07-01 17:40:19,186 Sent: , "time [1]
+2019-07-01 17:40:19,563 State changed from Running to Sending
+2019-07-01 17:40:22,690 State changed from Sending to Running
+2019-07-01 17:40:22,690 Sent: ": "201 [1]
+2019-07-01 17:40:23,068 State changed from Running to Sending
+2019-07-01 17:40:26,201 State changed from Sending to Running
+2019-07-01 17:40:26,201 Sent: 9-07-01 [1]
+2019-07-01 17:40:26,570 State changed from Running to Sending
+2019-07-01 17:40:29,812 State changed from Sending to Running
+2019-07-01 17:40:29,813 Sent:  17:40: [1]
+2019-07-01 17:40:30,075 State changed from Running to Sending
+2019-07-01 17:40:33,331 State changed from Sending to Running
+2019-07-01 17:40:33,332 Sent: 09", "T [1]
+2019-07-01 17:40:33,577 State changed from Running to Sending
+2019-07-01 17:40:36,738 State changed from Sending to Running
+2019-07-01 17:40:36,738 Sent: emp": 3 [1]
+2019-07-01 17:40:37,081 State changed from Running to Sending
+2019-07-01 17:40:40,250 State changed from Sending to Running
+2019-07-01 17:40:40,251 Sent: 7.5, "N [1]
+2019-07-01 17:40:40,586 State changed from Running to Sending
+2019-07-01 17:40:43,759 State changed from Sending to Running
+2019-07-01 17:40:43,759 Sent: O2": 0. [1]
+2019-07-01 17:40:44,090 State changed from Running to Sending
+2019-07-01 17:40:47,357 State changed from Sending to Running
+2019-07-01 17:40:47,358 Sent: 042, "C [1]
+2019-07-01 17:40:47,592 State changed from Running to Sending
+2019-07-01 17:40:50,761 State changed from Sending to Running
+2019-07-01 17:40:50,761 Sent: O2": 0. [1]
+2019-07-01 17:40:51,097 State changed from Running to Sending
+2019-07-01 17:40:53,496 State changed from Sending to Running
+2019-07-01 17:40:53,497 Sent: 325} [1]
+2019-07-01 17:40:54,385 State changed from Running to Receiving
+2019-07-01 17:40:54,385 Receiving data [1]
+2019-07-01 17:40:54,600 Changing cts #x
+2019-07-01 17:40:54,600 in sleep for  : 27
+2019-07-01 17:40:55,785 State changed from Receiving to Running
+2019-07-01 17:40:56,673 State changed from Running to Receiving
+2019-07-01 17:40:56,674 Receiving data [7]
+2019-07-01 17:40:58,166 State changed from Receiving to Running
+2019-07-01 17:40:58,174 State changed from Running to Receiving
+2019-07-01 17:40:58,174 Receiving data [1]
+2019-07-01 17:40:59,696 State changed from Receiving to Running
+2019-07-01 17:41:02,956 State changed from Running to Receiving
+2019-07-01 17:41:02,956 Receiving data [1]
+2019-07-01 17:41:05,749 State changed from Receiving to Running
+2019-07-01 17:41:06,460 State changed from Running to Receiving
+2019-07-01 17:41:06,460 Receiving data [1]
+2019-07-01 17:41:09,305 State changed from Receiving to Running
+2019-07-01 17:41:10,028 State changed from Running to Receiving
+2019-07-01 17:41:10,028 Receiving data [1]
+2019-07-01 17:41:12,918 State changed from Receiving to Running
+2019-07-01 17:41:13,431 State changed from Running to Receiving
+2019-07-01 17:41:13,431 Receiving data [1]
+2019-07-01 17:41:16,264 State changed from Receiving to Running
+2019-07-01 17:41:16,921 State changed from Running to Receiving
+2019-07-01 17:41:16,921 Receiving data [1]
+2019-07-01 17:41:19,837 State changed from Receiving to Running
+2019-07-01 17:41:20,545 State changed from Running to Receiving
+2019-07-01 17:41:20,545 Receiving data [1]
+2019-07-01 17:41:23,431 State changed from Receiving to Running
+2019-07-01 17:41:24,011 State changed from Running to Receiving
+2019-07-01 17:41:24,012 Receiving data [1]
+2019-07-01 17:41:26,887 State changed from Receiving to Running
+2019-07-01 17:41:27,580 State changed from Running to Receiving
+2019-07-01 17:41:27,580 Receiving data [1]
+2019-07-01 17:41:30,371 State changed from Receiving to Running
+2019-07-01 17:41:30,977 State changed from Running to Receiving
+2019-07-01 17:41:30,977 Receiving data [1]
+2019-07-01 17:41:33,869 State changed from Receiving to Running
+2019-07-01 17:41:34,447 State changed from Running to Receiving
+2019-07-01 17:41:34,447 Receiving data [1]
+2019-07-01 17:41:37,492 State changed from Receiving to Running
+2019-07-01 17:41:37,969 State changed from Running to Receiving
+2019-07-01 17:41:37,969 Receiving data [1]
+2019-07-01 17:41:40,770 State changed from Receiving to Running
+2019-07-01 17:41:41,433 State changed from Running to Receiving
+2019-07-01 17:41:41,433 Receiving data [1]
+2019-07-01 17:41:43,533 State changed from Receiving to Running
+2019-07-01 17:41:55,263 State changed from Running to Receiving
+2019-07-01 17:41:55,263 Receiving data [1]
+2019-07-01 17:41:55,628 State changed from Receiving to Sending
+2019-07-01 17:41:57,496 State changed from Sending to Running
+2019-07-01 17:41:57,496 Sent: #1 [1]
+2019-07-01 17:41:57,622 State changed from Running to Receiving
+2019-07-01 17:41:57,623 Receiving data [7]
+2019-07-01 17:41:59,038 State changed from Receiving to Running
+2019-07-01 17:42:00,289 State changed from Running to Receiving
+2019-07-01 17:42:00,289 Receiving data [1]
+2019-07-01 17:42:03,090 State changed from Receiving to Running
+2019-07-01 17:42:03,826 State changed from Running to Receiving
+2019-07-01 17:42:03,826 Receiving data [1]
+2019-07-01 17:42:06,708 State changed from Receiving to Running
+2019-07-01 17:42:07,224 State changed from Running to Receiving
+2019-07-01 17:42:07,225 Receiving data [1]
+2019-07-01 17:42:10,059 State changed from Receiving to Running
+2019-07-01 17:42:10,742 State changed from Running to Receiving
+2019-07-01 17:42:10,743 Receiving data [1]
+2019-07-01 17:42:13,501 State changed from Receiving to Running
+2019-07-01 17:42:14,176 State changed from Running to Receiving
+2019-07-01 17:42:14,177 Receiving data [1]
+2019-07-01 17:42:17,046 State changed from Receiving to Running
+2019-07-01 17:42:17,707 State changed from Running to Receiving
+2019-07-01 17:42:17,707 Receiving data [1]
+2019-07-01 17:42:20,579 State changed from Receiving to Running
+2019-07-01 17:42:21,263 State changed from Running to Receiving
+2019-07-01 17:42:21,263 Receiving data [1]
+2019-07-01 17:42:21,653 State changed from Receiving to Sending
+2019-07-01 17:42:23,476 State changed from Sending to Running
+2019-07-01 17:42:23,477 Sent: #1 [1]
+2019-07-01 17:42:24,693 State changed from Running to Receiving
+2019-07-01 17:42:24,694 Receiving data [1]
+2019-07-01 17:42:27,653 State changed from Receiving to Running
+2019-07-01 17:42:28,314 State changed from Running to Receiving
+2019-07-01 17:42:28,314 Receiving data [1]
+2019-07-01 17:42:31,210 State changed from Receiving to Running
+2019-07-01 17:42:31,684 State changed from Running to Receiving
+2019-07-01 17:42:31,685 Receiving data [1]
+2019-07-01 17:42:34,582 State changed from Receiving to Running
+2019-07-01 17:42:35,215 State changed from Running to Receiving
+2019-07-01 17:42:35,215 Receiving data [1]
+2019-07-01 17:42:38,101 State changed from Receiving to Running
+2019-07-01 17:42:38,768 State changed from Running to Receiving
+2019-07-01 17:42:38,768 Receiving data [1]
+2019-07-01 17:42:41,678 State changed from Receiving to Running
+2019-07-01 17:42:42,187 State changed from Running to Receiving
+2019-07-01 17:42:42,187 Receiving data [1]
+2019-07-01 17:42:44,290 State changed from Receiving to Running
+2019-07-01 17:42:49,672 State changed from Running to Sending
+2019-07-01 17:42:51,482 State changed from Sending to Running
+2019-07-01 17:42:51,483 Sent: #1 [1]
+2019-07-01 17:42:52,982 State changed from Running to Receiving
+2019-07-01 17:42:52,982 Receiving data [7]
+2019-07-01 17:42:54,295 State changed from Receiving to Running
+2019-07-01 17:42:54,679 State changed from Running to Sending
+2019-07-01 17:42:57,816 State changed from Sending to Running
+2019-07-01 17:42:57,818 Sent: {"Humi" [1]
+2019-07-01 17:42:58,184 State changed from Running to Sending
+2019-07-01 17:43:01,337 State changed from Sending to Running
+2019-07-01 17:43:01,341 Sent: : 1.875 [1]
+2019-07-01 17:43:01,685 State changed from Running to Sending
+2019-07-01 17:43:04,838 State changed from Sending to Running
+2019-07-01 17:43:04,838 Sent: , "time [1]
+2019-07-01 17:43:05,191 State changed from Running to Sending
+2019-07-01 17:43:08,441 State changed from Sending to Running
+2019-07-01 17:43:08,441 Sent: ": "201 [1]
+2019-07-01 17:43:08,696 State changed from Running to Sending
+2019-07-01 17:43:11,865 State changed from Sending to Running
+2019-07-01 17:43:11,868 Sent: 9-07-01 [1]
+2019-07-01 17:43:12,200 State changed from Running to Sending
+2019-07-01 17:43:15,383 State changed from Sending to Running
+2019-07-01 17:43:15,384 Sent:  17:42: [1]
+2019-07-01 17:43:15,705 State changed from Running to Sending
+2019-07-01 17:43:18,876 State changed from Sending to Running
+2019-07-01 17:43:18,877 Sent: 54", "T [1]
+2019-07-01 17:43:19,211 State changed from Running to Sending
+2019-07-01 17:43:22,477 State changed from Sending to Running
+2019-07-01 17:43:22,477 Sent: emp": 3 [1]
+2019-07-01 17:43:22,714 State changed from Running to Sending
+2019-07-01 17:43:25,987 State changed from Sending to Running
+2019-07-01 17:43:25,987 Sent: 7.5, "N [1]
+2019-07-01 17:43:26,219 State changed from Running to Sending
+2019-07-01 17:43:29,400 State changed from Sending to Running
+2019-07-01 17:43:29,401 Sent: O2": 0. [1]
+2019-07-01 17:43:29,721 State changed from Running to Sending
+2019-07-01 17:43:32,894 State changed from Sending to Running
+2019-07-01 17:43:32,894 Sent: 042, "C [1]
+2019-07-01 17:43:33,226 State changed from Running to Sending
+2019-07-01 17:43:36,507 State changed from Sending to Running
+2019-07-01 17:43:36,508 Sent: O2": 0. [1]
+2019-07-01 17:43:36,730 State changed from Running to Sending
+2019-07-01 17:43:39,136 State changed from Sending to Running
+2019-07-01 17:43:39,137 Sent: 325} [1]
+2019-07-01 17:43:40,405 State changed from Running to Stopped

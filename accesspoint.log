@@ -1,0 +1,649 @@
+2019-07-01 17:10:57,946 [ MY CHANNEL ID IS ] : 7
+2019-07-01 17:10:57,947 Protocol: ultrasonic-multichannel [v5]
+2019-07-01 17:10:57,963 State changed from Stopped to Running
+2019-07-01 17:10:59,593 [ MY CHANNEL ID IS ] : 7
+2019-07-01 17:10:59,593 Protocol: ultrasonic-multichannel [v5]
+2019-07-01 17:10:59,610 State changed from Stopped to Running
+2019-07-01 17:11:01,048 [ MY CHANNEL ID IS ] : 7
+2019-07-01 17:11:01,048 Protocol: ultrasonic-multichannel [v5]
+2019-07-01 17:11:01,067 State changed from Stopped to Running
+2019-07-01 17:11:03,633 [ MY CHANNEL ID IS ] : 7
+2019-07-01 17:11:03,634 Protocol: ultrasonic-multichannel [v5]
+2019-07-01 17:11:03,650 State changed from Stopped to Running
+2019-07-01 17:11:05,714 [ MY CHANNEL ID IS ] : 7
+2019-07-01 17:11:05,714 Protocol: ultrasonic-multichannel [v5]
+2019-07-01 17:11:05,734 State changed from Stopped to Running
+2019-07-01 17:11:07,765 [ MY CHANNEL ID IS ] : 7
+2019-07-01 17:11:07,765 Protocol: ultrasonic-multichannel [v5]
+2019-07-01 17:11:07,781 State changed from Stopped to Running
+2019-07-01 17:11:10,287 [ MY CHANNEL ID IS ] : 7
+2019-07-01 17:11:10,288 Protocol: ultrasonic-multichannel [v5]
+2019-07-01 17:11:10,306 State changed from Stopped to Running
+2019-07-01 17:11:11,685 [ MY CHANNEL ID IS ] : 7
+2019-07-01 17:11:11,685 Protocol: ultrasonic-multichannel [v5]
+2019-07-01 17:11:11,702 State changed from Stopped to Running
+2019-07-01 17:12:21,052 State changed from Running to Receiving
+2019-07-01 17:12:21,052 Receiving data [1]
+2019-07-01 17:12:22,363 State changed from Receiving to Running
+2019-07-01 17:12:22,363 State changed from Running to Sending
+2019-07-01 17:12:24,169 State changed from Sending to Running
+2019-07-01 17:12:24,170 Sent: #1 [ch7]
+2019-07-01 17:12:26,068 State changed from Running to Receiving
+2019-07-01 17:12:26,070 Receiving data [1]
+2019-07-01 17:12:28,964 State changed from Receiving to Running
+2019-07-01 17:12:28,964 [ Received data ] {"Temp"
+2019-07-01 17:12:29,639 State changed from Running to Receiving
+2019-07-01 17:12:29,640 Receiving data [1]
+2019-07-01 17:12:32,407 State changed from Receiving to Running
+2019-07-01 17:12:32,408 [ Received data ] {"Temp": 37.5,
+2019-07-01 17:12:33,066 State changed from Running to Receiving
+2019-07-01 17:12:33,067 Receiving data [1]
+2019-07-01 17:12:35,943 State changed from Receiving to Running
+2019-07-01 17:12:35,943 [ Received data ] {"Temp": 37.5, "Humi"
+2019-07-01 17:12:36,768 State changed from Running to Receiving
+2019-07-01 17:12:36,769 Receiving data [1]
+2019-07-01 17:12:39,582 State changed from Receiving to Running
+2019-07-01 17:12:39,583 [ Received data ] {"Temp": 37.5, "Humi": 1.875
+2019-07-01 17:12:40,237 State changed from Running to Receiving
+2019-07-01 17:12:40,238 Receiving data [1]
+2019-07-01 17:12:43,039 State changed from Receiving to Running
+2019-07-01 17:12:43,039 [ Received data ] {"Temp": 37.5, "Humi": 1.875, "time
+2019-07-01 17:12:43,657 State changed from Running to Receiving
+2019-07-01 17:12:43,658 Receiving data [1]
+2019-07-01 17:12:46,556 State changed from Receiving to Running
+2019-07-01 17:12:46,556 [ Received data ] {"Temp": 37.5, "Humi": 1.875, "time": "201
+2019-07-01 17:12:47,195 State changed from Running to Receiving
+2019-07-01 17:12:47,195 Receiving data [1]
+2019-07-01 17:12:50,092 State changed from Receiving to Running
+2019-07-01 17:12:50,092 [ Received data ] {"Temp": 37.5, "Humi": 1.875, "time": "2019-07-01
+2019-07-01 17:12:50,665 State changed from Running to Receiving
+2019-07-01 17:12:50,665 Receiving data [1]
+2019-07-01 17:12:53,536 State changed from Receiving to Running
+2019-07-01 17:12:53,536 [ Received data ] {"Temp": 37.5, "Humi": 1.875, "time": "2019-07-01 17:12:
+2019-07-01 17:12:54,196 State changed from Running to Receiving
+2019-07-01 17:12:54,197 Receiving data [1]
+2019-07-01 17:12:56,982 State changed from Receiving to Running
+2019-07-01 17:12:56,982 [ Received data ] {"Temp": 37.5, "Humi": 1.875, "time": "2019-07-01 17:12:25", "C
+2019-07-01 17:12:57,712 State changed from Running to Receiving
+2019-07-01 17:12:57,712 Receiving data [1]
+2019-07-01 17:13:00,519 State changed from Receiving to Running
+2019-07-01 17:13:00,519 [ Received data ] {"Temp": 37.5, "Humi": 1.875, "time": "2019-07-01 17:12:25", "CO2": 0.
+2019-07-01 17:13:01,176 State changed from Running to Receiving
+2019-07-01 17:13:01,177 Receiving data [1]
+2019-07-01 17:13:03,961 State changed from Receiving to Running
+2019-07-01 17:13:03,962 [ Received data ] {"Temp": 37.5, "Humi": 1.875, "time": "2019-07-01 17:12:25", "CO2": 0.325, "N
+2019-07-01 17:13:04,783 State changed from Running to Receiving
+2019-07-01 17:13:04,783 Receiving data [1]
+2019-07-01 17:13:07,501 State changed from Receiving to Running
+2019-07-01 17:13:07,502 [ Received data ] {"Temp": 37.5, "Humi": 1.875, "time": "2019-07-01 17:12:25", "CO2": 0.325, "NO2": 0.
+2019-07-01 17:13:08,320 State changed from Running to Receiving
+2019-07-01 17:13:08,320 Receiving data [1]
+2019-07-01 17:13:10,213 State changed from Receiving to Running
+2019-07-01 17:13:10,213 [ Received data ] {"Temp": 37.5, "Humi": 1.875, "time": "2019-07-01 17:12:25", "CO2": 0.325, "NO2": 0.042}
+2019-07-01 17:13:58,916 State changed from Running to Receiving
+2019-07-01 17:13:58,917 Receiving data [1]
+2019-07-01 17:14:00,386 State changed from Receiving to Running
+2019-07-01 17:14:00,387 State changed from Running to Sending
+2019-07-01 17:14:02,200 State changed from Sending to Running
+2019-07-01 17:14:02,201 Sent: #2 [ch7]
+2019-07-01 17:14:03,919 State changed from Running to Receiving
+2019-07-01 17:14:03,919 Receiving data [1]
+2019-07-01 17:14:06,714 State changed from Receiving to Running
+2019-07-01 17:14:06,714 [ Received data ] {"Temp": 37.5, "Humi": 1.875, "time": "2019-07-01 17:12:25", "CO2": 0.325, "NO2": 0.042}{"NO2":
+2019-07-01 17:14:07,460 State changed from Running to Receiving
+2019-07-01 17:14:07,461 Receiving data [1]
+2019-07-01 17:14:10,249 State changed from Receiving to Running
+2019-07-01 17:14:10,250 [ Received data ] {"Temp": 37.5, "Humi": 1.875, "time": "2019-07-01 17:12:25", "CO2": 0.325, "NO2": 0.042}{"NO2": 0.042,
+2019-07-01 17:14:10,999 State changed from Running to Receiving
+2019-07-01 17:14:10,999 Receiving data [1]
+2019-07-01 17:14:13,795 State changed from Receiving to Running
+2019-07-01 17:14:13,795 [ Failed to decode message! ]
+2019-07-01 17:14:14,433 State changed from Running to Receiving
+2019-07-01 17:14:14,434 Receiving data [1]
+2019-07-01 17:14:17,343 State changed from Receiving to Running
+2019-07-01 17:14:17,343 [ Received data ] {"Temp": 37.5, "Humi": 1.875, "time": "2019-07-01 17:12:25", "CO2": 0.325, "NO2": 0.042}{"NO2": 0.042, 0.325,
+2019-07-01 17:14:18,004 State changed from Running to Receiving
+2019-07-01 17:14:18,004 Receiving data [1]
+2019-07-01 17:14:20,883 State changed from Receiving to Running
+2019-07-01 17:14:20,883 [ Received data ] {"Temp": 37.5, "Humi": 1.875, "time": "2019-07-01 17:12:25", "CO2": 0.325, "NO2": 0.042}{"NO2": 0.042, 0.325, "time"
+2019-07-01 17:14:21,532 State changed from Running to Receiving
+2019-07-01 17:14:21,532 Receiving data [1]
+2019-07-01 17:14:24,412 State changed from Receiving to Running
+2019-07-01 17:14:24,413 [ Received data ] {"Temp": 37.5, "Humi": 1.875, "time": "2019-07-01 17:12:25", "CO2": 0.325, "NO2": 0.042}{"NO2": 0.042, 0.325, "time": "2019
+2019-07-01 17:14:25,146 State changed from Running to Receiving
+2019-07-01 17:14:25,147 Receiving data [1]
+2019-07-01 17:14:27,939 State changed from Receiving to Running
+2019-07-01 17:14:27,939 [ Received data ] {"Temp": 37.5, "Humi": 1.875, "time": "2019-07-01 17:12:25", "CO2": 0.325, "NO2": 0.042}{"NO2": 0.042, 0.325, "time": "2019-07-01 
+2019-07-01 17:14:28,583 State changed from Running to Receiving
+2019-07-01 17:14:28,584 Receiving data [1]
+2019-07-01 17:14:31,264 State changed from Receiving to Running
+2019-07-01 17:14:31,264 [ Received data ] {"Temp": 37.5, "Humi": 1.875, "time": "2019-07-01 17:12:25", "CO2": 0.325, "NO2": 0.042}{"NO2": 0.042, 0.325, "time": "2019-07-01 17:14:0
+2019-07-01 17:14:31,940 State changed from Running to Receiving
+2019-07-01 17:14:31,940 Receiving data [1]
+2019-07-01 17:14:34,764 State changed from Receiving to Running
+2019-07-01 17:14:34,764 [ Received data ] {"Temp": 37.5, "Humi": 1.875, "time": "2019-07-01 17:12:25", "CO2": 0.325, "NO2": 0.042}{"NO2": 0.042, 0.325, "time": "2019-07-01 17:14:03", "Te
+2019-07-01 17:14:35,476 State changed from Running to Receiving
+2019-07-01 17:14:35,476 Receiving data [1]
+2019-07-01 17:14:38,225 State changed from Receiving to Running
+2019-07-01 17:14:38,225 [ Received data ] {"Temp": 37.5, "Humi": 1.875, "time": "2019-07-01 17:12:25", "CO2": 0.325, "NO2": 0.042}{"NO2": 0.042, 0.325, "time": "2019-07-01 17:14:03", "Temp": 37
+2019-07-01 17:14:38,852 State changed from Running to Receiving
+2019-07-01 17:14:38,853 Receiving data [1]
+2019-07-01 17:14:40,172 State changed from Receiving to Running
+2019-07-01 17:14:40,172 State changed from Running to Sending
+2019-07-01 17:14:41,940 State changed from Sending to Running
+2019-07-01 17:14:41,941 Sent: #1 [ch7]
+2019-07-01 17:14:42,671 State changed from Running to Receiving
+2019-07-01 17:14:42,671 Receiving data [1]
+2019-07-01 17:14:45,482 State changed from Receiving to Running
+2019-07-01 17:14:45,482 [ Failed to decode message! ]
+2019-07-01 17:14:46,070 State changed from Running to Receiving
+2019-07-01 17:14:46,070 Receiving data [1]
+2019-07-01 17:14:50,069 State changed from Receiving to Running
+2019-07-01 17:14:50,069 [ Failed to decode message! ]
+2019-07-01 17:14:50,902 State changed from Running to Receiving
+2019-07-01 17:14:50,902 Receiving data [1]
+2019-07-01 17:14:53,627 State changed from Receiving to Running
+2019-07-01 17:14:53,628 [ Received data ] {"Temp": 37.5, "Humi": 1.875, "time": "2019-07-01 17:12:25", "CO2": 0.325, "NO2": 0.042}{"NO2": 0.042, 0.325, "time": "2019-07-01 17:14:03", "Temp": 37 "Humi"
+2019-07-01 17:14:54,345 State changed from Running to Receiving
+2019-07-01 17:14:54,346 Receiving data [1]
+2019-07-01 17:14:57,087 State changed from Receiving to Running
+2019-07-01 17:14:57,087 [ Failed to decode message! ]
+2019-07-01 17:15:53,593 State changed from Running to Receiving
+2019-07-01 17:15:53,593 Receiving data [1]
+2019-07-01 17:15:54,959 State changed from Receiving to Running
+2019-07-01 17:15:54,960 State changed from Running to Sending
+2019-07-01 17:15:56,757 State changed from Sending to Running
+2019-07-01 17:15:56,758 Sent: #2 [ch7]
+2019-07-01 17:15:58,623 State changed from Running to Receiving
+2019-07-01 17:15:58,624 Receiving data [1]
+2019-07-01 17:16:01,439 State changed from Receiving to Running
+2019-07-01 17:16:01,440 [ Received data ] {"Temp": 37.5, "Humi": 1.875, "time": "2019-07-01 17:12:25", "CO2": 0.325, "NO2": 0.042}{"NO2": 0.042, 0.325, "time": "2019-07-01 17:14:03", "Temp": 37 "Humi"{"CO2":
+2019-07-01 17:16:02,154 State changed from Running to Receiving
+2019-07-01 17:16:02,154 Receiving data [1]
+2019-07-01 17:16:04,965 State changed from Receiving to Running
+2019-07-01 17:16:04,966 [ Received data ] {"Temp": 37.5, "Humi": 1.875, "time": "2019-07-01 17:12:25", "CO2": 0.325, "NO2": 0.042}{"NO2": 0.042, 0.325, "time": "2019-07-01 17:14:03", "Temp": 37 "Humi"{"CO2": 0.325,
+2019-07-01 17:16:05,700 State changed from Running to Receiving
+2019-07-01 17:16:05,700 Receiving data [1]
+2019-07-01 17:16:08,447 State changed from Receiving to Running
+2019-07-01 17:16:08,447 [ Failed to decode message! ]
+2019-07-01 17:16:09,140 State changed from Running to Receiving
+2019-07-01 17:16:09,140 Receiving data [1]
+2019-07-01 17:16:11,944 State changed from Receiving to Running
+2019-07-01 17:16:11,945 [ Received data ] {"Temp": 37.5, "Humi": 1.875, "time": "2019-07-01 17:12:25", "CO2": 0.325, "NO2": 0.042}{"NO2": 0.042, 0.325, "time": "2019-07-01 17:14:03", "Temp": 37 "Humi"{"CO2": 0.325,: "2019
+2019-07-01 17:16:12,672 State changed from Running to Receiving
+2019-07-01 17:16:12,672 Receiving data [1]
+2019-07-01 17:16:15,483 State changed from Receiving to Running
+2019-07-01 17:16:15,483 [ Received data ] {"Temp": 37.5, "Humi": 1.875, "time": "2019-07-01 17:12:25", "CO2": 0.325, "NO2": 0.042}{"NO2": 0.042, 0.325, "time": "2019-07-01 17:14:03", "Temp": 37 "Humi"{"CO2": 0.325,: "2019-07-01 
+2019-07-01 17:16:16,217 State changed from Running to Receiving
+2019-07-01 17:16:16,217 Receiving data [1]
+2019-07-01 17:16:18,920 State changed from Receiving to Running
+2019-07-01 17:16:18,920 [ Received data ] {"Temp": 37.5, "Humi": 1.875, "time": "2019-07-01 17:12:25", "CO2": 0.325, "NO2": 0.042}{"NO2": 0.042, 0.325, "time": "2019-07-01 17:14:03", "Temp": 37 "Humi"{"CO2": 0.325,: "2019-07-01 17:15:5
+2019-07-01 17:16:19,756 State changed from Running to Receiving
+2019-07-01 17:16:19,756 Receiving data [1]
+2019-07-01 17:16:22,448 State changed from Receiving to Running
+2019-07-01 17:16:22,449 [ Received data ] {"Temp": 37.5, "Humi": 1.875, "time": "2019-07-01 17:12:25", "CO2": 0.325, "NO2": 0.042}{"NO2": 0.042, 0.325, "time": "2019-07-01 17:14:03", "Temp": 37 "Humi"{"CO2": 0.325,: "2019-07-01 17:15:57", "NO
+2019-07-01 17:16:23,291 State changed from Running to Receiving
+2019-07-01 17:16:23,292 Receiving data [1]
+2019-07-01 17:16:26,003 State changed from Receiving to Running
+2019-07-01 17:16:26,003 [ Received data ] {"Temp": 37.5, "Humi": 1.875, "time": "2019-07-01 17:12:25", "CO2": 0.325, "NO2": 0.042}{"NO2": 0.042, 0.325, "time": "2019-07-01 17:14:03", "Temp": 37 "Humi"{"CO2": 0.325,: "2019-07-01 17:15:57", "NO2": 0.0
+2019-07-01 17:16:26,733 State changed from Running to Receiving
+2019-07-01 17:16:26,733 Receiving data [1]
+2019-07-01 17:16:29,454 State changed from Receiving to Running
+2019-07-01 17:16:29,454 [ Received data ] {"Temp": 37.5, "Humi": 1.875, "time": "2019-07-01 17:12:25", "CO2": 0.325, "NO2": 0.042}{"NO2": 0.042, 0.325, "time": "2019-07-01 17:14:03", "Temp": 37 "Humi"{"CO2": 0.325,: "2019-07-01 17:15:57", "NO2": 0.042, "Hu
+2019-07-01 17:16:30,270 State changed from Running to Receiving
+2019-07-01 17:16:30,270 Receiving data [1]
+2019-07-01 17:16:33,029 State changed from Receiving to Running
+2019-07-01 17:16:33,030 [ Received data ] {"Temp": 37.5, "Humi": 1.875, "time": "2019-07-01 17:12:25", "CO2": 0.325, "NO2": 0.042}{"NO2": 0.042, 0.325, "time": "2019-07-01 17:14:03", "Temp": 37 "Humi"{"CO2": 0.325,: "2019-07-01 17:15:57", "NO2": 0.042, "Humi": 1.
+2019-07-01 17:16:33,739 State changed from Running to Receiving
+2019-07-01 17:16:33,739 Receiving data [1]
+2019-07-01 17:16:36,577 State changed from Receiving to Running
+2019-07-01 17:16:36,577 [ Failed to decode message! ]
+2019-07-01 17:16:37,287 State changed from Running to Receiving
+2019-07-01 17:16:37,288 Receiving data [1]
+2019-07-01 17:16:40,020 State changed from Receiving to Running
+2019-07-01 17:16:40,020 [ Failed to decode message! ]
+2019-07-01 17:27:47,381 State changed from Running to Receiving
+2019-07-01 17:27:47,381 Receiving data [1]
+2019-07-01 17:27:48,881 State changed from Receiving to Running
+2019-07-01 17:27:48,882 State changed from Running to Sending
+2019-07-01 17:27:50,715 State changed from Sending to Running
+2019-07-01 17:27:50,716 Sent: #2 [ch7]
+2019-07-01 17:27:52,319 State changed from Running to Receiving
+2019-07-01 17:27:52,320 Receiving data [1]
+2019-07-01 17:27:55,319 State changed from Receiving to Running
+2019-07-01 17:27:55,320 [ Received data ] {"Temp": 37.5, "Humi": 1.875, "time": "2019-07-01 17:12:25", "CO2": 0.325, "NO2": 0.042}{"NO2": 0.042, 0.325, "time": "2019-07-01 17:14:03", "Temp": 37 "Humi"{"CO2": 0.325,: "2019-07-01 17:15:57", "NO2": 0.042, "Humi": 1.{"time"
+2019-07-01 17:27:56,032 State changed from Running to Receiving
+2019-07-01 17:27:56,033 Receiving data [1]
+2019-07-01 17:27:58,769 State changed from Receiving to Running
+2019-07-01 17:27:58,769 [ Received data ] {"Temp": 37.5, "Humi": 1.875, "time": "2019-07-01 17:12:25", "CO2": 0.325, "NO2": 0.042}{"NO2": 0.042, 0.325, "time": "2019-07-01 17:14:03", "Temp": 37 "Humi"{"CO2": 0.325,: "2019-07-01 17:15:57", "NO2": 0.042, "Humi": 1.{"time": "2019
+2019-07-01 17:27:59,403 State changed from Running to Receiving
+2019-07-01 17:27:59,403 Receiving data [1]
+2019-07-01 17:28:02,285 State changed from Receiving to Running
+2019-07-01 17:28:02,286 [ Received data ] {"Temp": 37.5, "Humi": 1.875, "time": "2019-07-01 17:12:25", "CO2": 0.325, "NO2": 0.042}{"NO2": 0.042, 0.325, "time": "2019-07-01 17:14:03", "Temp": 37 "Humi"{"CO2": 0.325,: "2019-07-01 17:15:57", "NO2": 0.042, "Humi": 1.{"time": "2019-07-01 
+2019-07-01 17:28:02,940 State changed from Running to Receiving
+2019-07-01 17:28:02,941 Receiving data [1]
+2019-07-01 17:28:05,740 State changed from Receiving to Running
+2019-07-01 17:28:05,741 [ Received data ] {"Temp": 37.5, "Humi": 1.875, "time": "2019-07-01 17:12:25", "CO2": 0.325, "NO2": 0.042}{"NO2": 0.042, 0.325, "time": "2019-07-01 17:14:03", "Temp": 37 "Humi"{"CO2": 0.325,: "2019-07-01 17:15:57", "NO2": 0.042, "Humi": 1.{"time": "2019-07-01 17:27:5
+2019-07-01 17:28:06,384 State changed from Running to Receiving
+2019-07-01 17:28:06,385 Receiving data [1]
+2019-07-01 17:28:09,374 State changed from Receiving to Running
+2019-07-01 17:28:09,374 [ Received data ] {"Temp": 37.5, "Humi": 1.875, "time": "2019-07-01 17:12:25", "CO2": 0.325, "NO2": 0.042}{"NO2": 0.042, 0.325, "time": "2019-07-01 17:14:03", "Temp": 37 "Humi"{"CO2": 0.325,: "2019-07-01 17:15:57", "NO2": 0.042, "Humi": 1.{"time": "2019-07-01 17:27:58", "Te
+2019-07-01 17:28:10,021 State changed from Running to Receiving
+2019-07-01 17:28:10,022 Receiving data [1]
+2019-07-01 17:28:12,821 State changed from Receiving to Running
+2019-07-01 17:28:12,821 [ Received data ] {"Temp": 37.5, "Humi": 1.875, "time": "2019-07-01 17:12:25", "CO2": 0.325, "NO2": 0.042}{"NO2": 0.042, 0.325, "time": "2019-07-01 17:14:03", "Temp": 37 "Humi"{"CO2": 0.325,: "2019-07-01 17:15:57", "NO2": 0.042, "Humi": 1.{"time": "2019-07-01 17:27:58", "Temp": 37
+2019-07-01 17:28:13,385 State changed from Running to Receiving
+2019-07-01 17:28:13,385 Receiving data [1]
+2019-07-01 17:28:16,361 State changed from Receiving to Running
+2019-07-01 17:28:16,362 [ Received data ] {"Temp": 37.5, "Humi": 1.875, "time": "2019-07-01 17:12:25", "CO2": 0.325, "NO2": 0.042}{"NO2": 0.042, 0.325, "time": "2019-07-01 17:14:03", "Temp": 37 "Humi"{"CO2": 0.325,: "2019-07-01 17:15:57", "NO2": 0.042, "Humi": 1.{"time": "2019-07-01 17:27:58", "Temp": 37.5, "Hu
+2019-07-01 17:28:17,009 State changed from Running to Receiving
+2019-07-01 17:28:17,010 Receiving data [1]
+2019-07-01 17:28:19,823 State changed from Receiving to Running
+2019-07-01 17:28:19,823 [ Received data ] {"Temp": 37.5, "Humi": 1.875, "time": "2019-07-01 17:12:25", "CO2": 0.325, "NO2": 0.042}{"NO2": 0.042, 0.325, "time": "2019-07-01 17:14:03", "Temp": 37 "Humi"{"CO2": 0.325,: "2019-07-01 17:15:57", "NO2": 0.042, "Humi": 1.{"time": "2019-07-01 17:27:58", "Temp": 37.5, "Humi": 1.
+2019-07-01 17:28:20,451 State changed from Running to Receiving
+2019-07-01 17:28:20,452 Receiving data [1]
+2019-07-01 17:28:23,347 State changed from Receiving to Running
+2019-07-01 17:28:23,347 [ Received data ] {"Temp": 37.5, "Humi": 1.875, "time": "2019-07-01 17:12:25", "CO2": 0.325, "NO2": 0.042}{"NO2": 0.042, 0.325, "time": "2019-07-01 17:14:03", "Temp": 37 "Humi"{"CO2": 0.325,: "2019-07-01 17:15:57", "NO2": 0.042, "Humi": 1.{"time": "2019-07-01 17:27:58", "Temp": 37.5, "Humi": 1.875, "C
+2019-07-01 17:28:24,077 State changed from Running to Receiving
+2019-07-01 17:28:24,078 Receiving data [1]
+2019-07-01 17:28:26,891 State changed from Receiving to Running
+2019-07-01 17:28:26,892 [ Received data ] {"Temp": 37.5, "Humi": 1.875, "time": "2019-07-01 17:12:25", "CO2": 0.325, "NO2": 0.042}{"NO2": 0.042, 0.325, "time": "2019-07-01 17:14:03", "Temp": 37 "Humi"{"CO2": 0.325,: "2019-07-01 17:15:57", "NO2": 0.042, "Humi": 1.{"time": "2019-07-01 17:27:58", "Temp": 37.5, "Humi": 1.875, "CO2": 0.
+2019-07-01 17:28:27,352 State changed from Running to Receiving
+2019-07-01 17:28:27,352 Receiving data [1]
+2019-07-01 17:28:30,328 State changed from Receiving to Running
+2019-07-01 17:28:30,328 [ Received data ] {"Temp": 37.5, "Humi": 1.875, "time": "2019-07-01 17:12:25", "CO2": 0.325, "NO2": 0.042}{"NO2": 0.042, 0.325, "time": "2019-07-01 17:14:03", "Temp": 37 "Humi"{"CO2": 0.325,: "2019-07-01 17:15:57", "NO2": 0.042, "Humi": 1.{"time": "2019-07-01 17:27:58", "Temp": 37.5, "Humi": 1.875, "CO2": 0.325, "N
+2019-07-01 17:28:31,133 State changed from Running to Receiving
+2019-07-01 17:28:31,134 Receiving data [1]
+2019-07-01 17:28:33,785 State changed from Receiving to Running
+2019-07-01 17:28:33,785 [ Received data ] {"Temp": 37.5, "Humi": 1.875, "time": "2019-07-01 17:12:25", "CO2": 0.325, "NO2": 0.042}{"NO2": 0.042, 0.325, "time": "2019-07-01 17:14:03", "Temp": 37 "Humi"{"CO2": 0.325,: "2019-07-01 17:15:57", "NO2": 0.042, "Humi": 1.{"time": "2019-07-01 17:27:58", "Temp": 37.5, "Humi": 1.875, "CO2": 0.325, "NO2": 0.
+2019-07-01 17:28:34,425 State changed from Running to Receiving
+2019-07-01 17:28:34,426 Receiving data [1]
+2019-07-01 17:28:36,566 State changed from Receiving to Running
+2019-07-01 17:28:36,566 [ Received data ] {"Temp": 37.5, "Humi": 1.875, "time": "2019-07-01 17:12:25", "CO2": 0.325, "NO2": 0.042}{"NO2": 0.042, 0.325, "time": "2019-07-01 17:14:03", "Temp": 37 "Humi"{"CO2": 0.325,: "2019-07-01 17:15:57", "NO2": 0.042, "Humi": 1.{"time": "2019-07-01 17:27:58", "Temp": 37.5, "Humi": 1.875, "CO2": 0.325, "NO2": 0.042}
+2019-07-01 17:29:26,824 State changed from Running to Receiving
+2019-07-01 17:29:26,825 Receiving data [1]
+2019-07-01 17:29:28,162 State changed from Receiving to Running
+2019-07-01 17:29:28,163 State changed from Running to Sending
+2019-07-01 17:29:29,075 State changed from Sending to Receiving
+2019-07-01 17:29:29,075 Receiving data [1]
+2019-07-01 17:29:29,959 State changed from Receiving to Running
+2019-07-01 17:29:29,959 Sent: #4 [ch7]
+2019-07-01 17:29:30,392 State changed from Running to Running
+2019-07-01 17:29:30,392 State changed from Running to Sending
+2019-07-01 17:29:31,776 State changed from Sending to Receiving
+2019-07-01 17:29:31,776 Receiving data [1]
+2019-07-01 17:29:32,214 State changed from Receiving to Running
+2019-07-01 17:29:32,215 Sent: #2 [ch7]
+2019-07-01 17:29:34,593 State changed from Running to Running
+2019-07-01 17:29:34,593 [ Failed to decode message! ]
+2019-07-01 17:29:35,300 State changed from Running to Receiving
+2019-07-01 17:29:35,301 Receiving data [1]
+2019-07-01 17:29:38,120 State changed from Receiving to Running
+2019-07-01 17:29:38,121 [ Failed to decode message! ]
+2019-07-01 17:29:38,861 State changed from Running to Receiving
+2019-07-01 17:29:38,861 Receiving data [1]
+2019-07-01 17:29:41,655 State changed from Receiving to Running
+2019-07-01 17:29:41,655 [ Failed to decode message! ]
+2019-07-01 17:29:42,286 State changed from Running to Receiving
+2019-07-01 17:29:42,286 Receiving data [1]
+2019-07-01 17:29:45,106 State changed from Receiving to Running
+2019-07-01 17:29:45,107 [ Failed to decode message! ]
+2019-07-01 17:29:48,139 State changed from Running to Receiving
+2019-07-01 17:29:48,140 Receiving data [1]
+2019-07-01 17:29:50,959 State changed from Receiving to Running
+2019-07-01 17:29:50,959 [ Failed to decode message! ]
+2019-07-01 17:29:52,812 State changed from Running to Receiving
+2019-07-01 17:29:52,813 Receiving data [1]
+2019-07-01 17:29:57,848 State changed from Receiving to Running
+2019-07-01 17:29:57,848 [ Failed to decode message! ]
+2019-07-01 17:37:58,112 [ MY CHANNEL ID IS ] : 7
+2019-07-01 17:37:58,112 Protocol: ultrasonic-multichannel [v5]
+2019-07-01 17:37:58,126 State changed from Stopped to Running
+2019-07-01 17:38:18,329 State changed from Running to Receiving
+2019-07-01 17:38:18,329 Receiving data [1]
+2019-07-01 17:38:19,724 State changed from Receiving to Running
+2019-07-01 17:38:19,725 State changed from Running to Sending
+2019-07-01 17:38:21,532 State changed from Sending to Running
+2019-07-01 17:38:21,533 Sent: #1 [ch7]
+2019-07-01 17:38:23,360 State changed from Running to Receiving
+2019-07-01 17:38:23,360 Receiving data [1]
+2019-07-01 17:38:26,083 State changed from Receiving to Running
+2019-07-01 17:38:26,083 [ Received data ] {"Humi"
+2019-07-01 17:38:26,995 State changed from Running to Receiving
+2019-07-01 17:38:26,995 Receiving data [1]
+2019-07-01 17:38:29,739 State changed from Receiving to Running
+2019-07-01 17:38:29,739 [ Received data ] {"Humi": 1.875
+2019-07-01 17:38:30,437 State changed from Running to Receiving
+2019-07-01 17:38:30,437 Receiving data [1]
+2019-07-01 17:38:33,253 State changed from Receiving to Running
+2019-07-01 17:38:33,253 [ Received data ] {"Humi": 1.875, "time
+2019-07-01 17:38:33,920 State changed from Running to Receiving
+2019-07-01 17:38:33,921 Receiving data [1]
+2019-07-01 17:38:36,717 State changed from Receiving to Running
+2019-07-01 17:38:36,718 [ Received data ] {"Humi": 1.875, "time": "201
+2019-07-01 17:38:37,555 State changed from Running to Receiving
+2019-07-01 17:38:37,555 Receiving data [1]
+2019-07-01 17:38:40,265 State changed from Receiving to Running
+2019-07-01 17:38:40,265 [ Received data ] {"Humi": 1.875, "time": "2019-07-01
+2019-07-01 17:38:40,924 State changed from Running to Receiving
+2019-07-01 17:38:40,924 Receiving data [1]
+2019-07-01 17:38:43,889 State changed from Receiving to Running
+2019-07-01 17:38:43,890 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:
+2019-07-01 17:38:44,436 State changed from Running to Receiving
+2019-07-01 17:38:44,436 Receiving data [1]
+2019-07-01 17:38:47,182 State changed from Receiving to Running
+2019-07-01 17:38:47,182 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "T
+2019-07-01 17:38:47,803 State changed from Running to Receiving
+2019-07-01 17:38:47,804 Receiving data [1]
+2019-07-01 17:38:50,668 State changed from Receiving to Running
+2019-07-01 17:38:50,668 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 3
+2019-07-01 17:38:51,421 State changed from Running to Receiving
+2019-07-01 17:38:51,422 Receiving data [1]
+2019-07-01 17:38:54,206 State changed from Receiving to Running
+2019-07-01 17:38:54,206 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "N
+2019-07-01 17:38:54,878 State changed from Running to Receiving
+2019-07-01 17:38:54,878 Receiving data [1]
+2019-07-01 17:38:57,744 State changed from Receiving to Running
+2019-07-01 17:38:57,745 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.
+2019-07-01 17:38:58,401 State changed from Running to Receiving
+2019-07-01 17:38:58,401 Receiving data [1]
+2019-07-01 17:39:01,296 State changed from Receiving to Running
+2019-07-01 17:39:01,296 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "C
+2019-07-01 17:39:02,030 State changed from Running to Receiving
+2019-07-01 17:39:02,031 Receiving data [1]
+2019-07-01 17:39:04,827 State changed from Receiving to Running
+2019-07-01 17:39:04,828 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.
+2019-07-01 17:39:05,398 State changed from Running to Receiving
+2019-07-01 17:39:05,399 Receiving data [1]
+2019-07-01 17:39:07,408 State changed from Receiving to Running
+2019-07-01 17:39:07,409 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}
+2019-07-01 17:39:12,594 State changed from Running to Receiving
+2019-07-01 17:39:12,595 Receiving data [1]
+2019-07-01 17:39:13,817 State changed from Receiving to Running
+2019-07-01 17:39:13,818 State changed from Running to Sending
+2019-07-01 17:39:15,652 State changed from Sending to Running
+2019-07-01 17:39:15,652 Sent: #2 [ch7]
+2019-07-01 17:39:17,763 State changed from Running to Receiving
+2019-07-01 17:39:17,764 Receiving data [1]
+2019-07-01 17:39:20,505 State changed from Receiving to Running
+2019-07-01 17:39:20,506 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi"
+2019-07-01 17:39:21,203 State changed from Running to Receiving
+2019-07-01 17:39:21,204 Receiving data [1]
+2019-07-01 17:39:23,971 State changed from Receiving to Running
+2019-07-01 17:39:23,972 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875
+2019-07-01 17:39:24,649 State changed from Running to Receiving
+2019-07-01 17:39:24,650 Receiving data [1]
+2019-07-01 17:39:27,469 State changed from Receiving to Running
+2019-07-01 17:39:27,470 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time
+2019-07-01 17:39:28,101 State changed from Running to Receiving
+2019-07-01 17:39:28,101 Receiving data [1]
+2019-07-01 17:39:31,010 State changed from Receiving to Running
+2019-07-01 17:39:31,011 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "201
+2019-07-01 17:39:31,648 State changed from Running to Receiving
+2019-07-01 17:39:31,648 Receiving data [1]
+2019-07-01 17:39:34,396 State changed from Receiving to Running
+2019-07-01 17:39:34,397 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01
+2019-07-01 17:39:35,092 State changed from Running to Receiving
+2019-07-01 17:39:35,092 Receiving data [1]
+2019-07-01 17:39:37,927 State changed from Receiving to Running
+2019-07-01 17:39:37,927 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:
+2019-07-01 17:39:38,628 State changed from Running to Receiving
+2019-07-01 17:39:38,628 Receiving data [1]
+2019-07-01 17:39:41,547 State changed from Receiving to Running
+2019-07-01 17:39:41,548 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "T
+2019-07-01 17:39:42,184 State changed from Running to Receiving
+2019-07-01 17:39:42,184 Receiving data [1]
+2019-07-01 17:39:45,005 State changed from Receiving to Running
+2019-07-01 17:39:45,006 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 3
+2019-07-01 17:39:45,643 State changed from Running to Receiving
+2019-07-01 17:39:45,644 Receiving data [1]
+2019-07-01 17:39:48,449 State changed from Receiving to Running
+2019-07-01 17:39:48,449 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "N
+2019-07-01 17:39:49,185 State changed from Running to Receiving
+2019-07-01 17:39:49,185 Receiving data [1]
+2019-07-01 17:39:51,936 State changed from Receiving to Running
+2019-07-01 17:39:51,936 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "NO2": 0.
+2019-07-01 17:39:52,715 State changed from Running to Receiving
+2019-07-01 17:39:52,715 Receiving data [1]
+2019-07-01 17:39:55,543 State changed from Receiving to Running
+2019-07-01 17:39:55,544 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "NO2": 0.042, "C
+2019-07-01 17:39:56,096 State changed from Running to Receiving
+2019-07-01 17:39:56,096 Receiving data [1]
+2019-07-01 17:39:59,076 State changed from Receiving to Running
+2019-07-01 17:39:59,076 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "NO2": 0.042, "CO2": 0.
+2019-07-01 17:39:59,635 State changed from Running to Receiving
+2019-07-01 17:39:59,635 Receiving data [1]
+2019-07-01 17:40:01,608 State changed from Receiving to Running
+2019-07-01 17:40:01,609 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}
+2019-07-01 17:40:04,969 State changed from Running to Receiving
+2019-07-01 17:40:04,969 Receiving data [1]
+2019-07-01 17:40:06,425 State changed from Receiving to Running
+2019-07-01 17:40:06,425 State changed from Running to Sending
+2019-07-01 17:40:08,192 State changed from Sending to Running
+2019-07-01 17:40:08,193 Sent: #1 [ch7]
+2019-07-01 17:40:09,963 State changed from Running to Receiving
+2019-07-01 17:40:09,964 Receiving data [1]
+2019-07-01 17:40:12,804 State changed from Receiving to Running
+2019-07-01 17:40:12,805 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi"
+2019-07-01 17:40:13,481 State changed from Running to Receiving
+2019-07-01 17:40:13,482 Receiving data [1]
+2019-07-01 17:40:16,325 State changed from Receiving to Running
+2019-07-01 17:40:16,326 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875
+2019-07-01 17:40:16,859 State changed from Running to Receiving
+2019-07-01 17:40:16,860 Receiving data [1]
+2019-07-01 17:40:19,666 State changed from Receiving to Running
+2019-07-01 17:40:19,667 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time
+2019-07-01 17:40:20,496 State changed from Running to Receiving
+2019-07-01 17:40:20,496 Receiving data [1]
+2019-07-01 17:40:23,316 State changed from Receiving to Running
+2019-07-01 17:40:23,317 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "201
+2019-07-01 17:40:23,998 State changed from Running to Receiving
+2019-07-01 17:40:23,999 Receiving data [1]
+2019-07-01 17:40:26,671 State changed from Receiving to Running
+2019-07-01 17:40:26,672 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01
+2019-07-01 17:40:27,493 State changed from Running to Receiving
+2019-07-01 17:40:27,493 Receiving data [1]
+2019-07-01 17:40:30,294 State changed from Receiving to Running
+2019-07-01 17:40:30,294 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:40:
+2019-07-01 17:40:30,964 State changed from Running to Receiving
+2019-07-01 17:40:30,964 Receiving data [1]
+2019-07-01 17:40:33,829 State changed from Receiving to Running
+2019-07-01 17:40:33,829 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:40:09", "T
+2019-07-01 17:40:34,482 State changed from Running to Receiving
+2019-07-01 17:40:34,482 Receiving data [1]
+2019-07-01 17:40:37,190 State changed from Receiving to Running
+2019-07-01 17:40:37,190 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:40:09", "Temp": 3
+2019-07-01 17:40:38,008 State changed from Running to Receiving
+2019-07-01 17:40:38,009 Receiving data [1]
+2019-07-01 17:40:40,849 State changed from Receiving to Running
+2019-07-01 17:40:40,850 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:40:09", "Temp": 37.5, "N
+2019-07-01 17:40:41,489 State changed from Running to Receiving
+2019-07-01 17:40:41,489 Receiving data [1]
+2019-07-01 17:40:44,315 State changed from Receiving to Running
+2019-07-01 17:40:44,315 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:40:09", "Temp": 37.5, "NO2": 0.
+2019-07-01 17:40:45,148 State changed from Running to Receiving
+2019-07-01 17:40:45,149 Receiving data [1]
+2019-07-01 17:40:47,753 State changed from Receiving to Running
+2019-07-01 17:40:47,753 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:40:09", "Temp": 37.5, "NO2": 0.042, "C
+2019-07-01 17:40:48,418 State changed from Running to Receiving
+2019-07-01 17:40:48,418 Receiving data [1]
+2019-07-01 17:40:51,320 State changed from Receiving to Running
+2019-07-01 17:40:51,320 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:40:09", "Temp": 37.5, "NO2": 0.042, "CO2": 0.
+2019-07-01 17:40:52,031 State changed from Running to Receiving
+2019-07-01 17:40:52,032 Receiving data [1]
+2019-07-01 17:40:54,021 State changed from Receiving to Running
+2019-07-01 17:40:54,022 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:40:09", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}
+2019-07-01 17:40:54,564 State changed from Running to Receiving
+2019-07-01 17:40:54,565 Receiving data [1]
+2019-07-01 17:40:55,843 State changed from Receiving to Running
+2019-07-01 17:40:55,843 State changed from Running to Sending
+2019-07-01 17:40:57,595 State changed from Sending to Running
+2019-07-01 17:40:57,596 Sent: #3 [ch7]
+2019-07-01 17:40:58,268 State changed from Running to Receiving
+2019-07-01 17:40:58,268 Receiving data [1]
+2019-07-01 17:40:59,710 State changed from Receiving to Running
+2019-07-01 17:40:59,711 [ Failed to decode message! ]
+2019-07-01 17:41:03,062 State changed from Running to Receiving
+2019-07-01 17:41:03,063 Receiving data [1]
+2019-07-01 17:41:05,692 State changed from Receiving to Running
+2019-07-01 17:41:05,693 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:40:09", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}: 37.5,
+2019-07-01 17:41:06,599 State changed from Running to Receiving
+2019-07-01 17:41:06,599 Receiving data [1]
+2019-07-01 17:41:09,311 State changed from Receiving to Running
+2019-07-01 17:41:09,311 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:40:09", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}: 37.5, "CO2":
+2019-07-01 17:41:09,984 State changed from Running to Receiving
+2019-07-01 17:41:09,984 Receiving data [1]
+2019-07-01 17:41:12,864 State changed from Receiving to Running
+2019-07-01 17:41:12,865 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:40:09", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}: 37.5, "CO2": 0.325,
+2019-07-01 17:41:13,443 State changed from Running to Receiving
+2019-07-01 17:41:13,444 Receiving data [1]
+2019-07-01 17:41:16,291 State changed from Receiving to Running
+2019-07-01 17:41:16,291 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:40:09", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}: 37.5, "CO2": 0.325, "time"
+2019-07-01 17:41:17,026 State changed from Running to Receiving
+2019-07-01 17:41:17,027 Receiving data [1]
+2019-07-01 17:41:19,790 State changed from Receiving to Running
+2019-07-01 17:41:19,791 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:40:09", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}: 37.5, "CO2": 0.325, "time": "2019
+2019-07-01 17:41:20,563 State changed from Running to Receiving
+2019-07-01 17:41:20,563 Receiving data [1]
+2019-07-01 17:41:23,388 State changed from Receiving to Running
+2019-07-01 17:41:23,389 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:40:09", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}: 37.5, "CO2": 0.325, "time": "2019-07-01 
+2019-07-01 17:41:24,028 State changed from Running to Receiving
+2019-07-01 17:41:24,029 Receiving data [1]
+2019-07-01 17:41:26,860 State changed from Receiving to Running
+2019-07-01 17:41:26,861 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:40:09", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}: 37.5, "CO2": 0.325, "time": "2019-07-01 17:40:5
+2019-07-01 17:41:27,552 State changed from Running to Receiving
+2019-07-01 17:41:27,552 Receiving data [1]
+2019-07-01 17:41:30,395 State changed from Receiving to Running
+2019-07-01 17:41:30,395 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:40:09", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}: 37.5, "CO2": 0.325, "time": "2019-07-01 17:40:58", "Hu
+2019-07-01 17:41:30,962 State changed from Running to Receiving
+2019-07-01 17:41:30,963 Receiving data [1]
+2019-07-01 17:41:33,737 State changed from Receiving to Running
+2019-07-01 17:41:33,737 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:40:09", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}: 37.5, "CO2": 0.325, "time": "2019-07-01 17:40:58", "Humi": 1.
+2019-07-01 17:41:34,590 State changed from Running to Receiving
+2019-07-01 17:41:34,591 Receiving data [1]
+2019-07-01 17:41:37,352 State changed from Receiving to Running
+2019-07-01 17:41:37,352 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:40:09", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}: 37.5, "CO2": 0.325, "time": "2019-07-01 17:40:58", "Humi": 1.875, "N
+2019-07-01 17:41:37,919 State changed from Running to Receiving
+2019-07-01 17:41:37,919 Receiving data [1]
+2019-07-01 17:41:40,812 State changed from Receiving to Running
+2019-07-01 17:41:40,812 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:40:09", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}: 37.5, "CO2": 0.325, "time": "2019-07-01 17:40:58", "Humi": 1.875, "NO2": 0.
+2019-07-01 17:41:41,546 State changed from Running to Receiving
+2019-07-01 17:41:41,546 Receiving data [1]
+2019-07-01 17:41:43,529 State changed from Receiving to Running
+2019-07-01 17:41:43,530 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:40:09", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}: 37.5, "CO2": 0.325, "time": "2019-07-01 17:40:58", "Humi": 1.875, "NO2": 0.042}
+2019-07-01 17:41:55,249 State changed from Running to Receiving
+2019-07-01 17:41:55,249 Receiving data [1]
+2019-07-01 17:41:56,689 State changed from Receiving to Running
+2019-07-01 17:41:56,690 State changed from Running to Sending
+2019-07-01 17:41:58,571 State changed from Sending to Running
+2019-07-01 17:41:58,572 Sent: #2 [ch7]
+2019-07-01 17:42:00,271 State changed from Running to Receiving
+2019-07-01 17:42:00,271 Receiving data [1]
+2019-07-01 17:42:03,113 State changed from Receiving to Running
+2019-07-01 17:42:03,114 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:40:09", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}: 37.5, "CO2": 0.325, "time": "2019-07-01 17:40:58", "Humi": 1.875, "NO2": 0.042}{"Humi"
+2019-07-01 17:42:03,774 State changed from Running to Receiving
+2019-07-01 17:42:03,775 Receiving data [1]
+2019-07-01 17:42:06,660 State changed from Receiving to Running
+2019-07-01 17:42:06,660 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:40:09", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}: 37.5, "CO2": 0.325, "time": "2019-07-01 17:40:58", "Humi": 1.875, "NO2": 0.042}{"Humi": 1.875
+2019-07-01 17:42:07,230 State changed from Running to Receiving
+2019-07-01 17:42:07,230 Receiving data [1]
+2019-07-01 17:42:10,084 State changed from Receiving to Running
+2019-07-01 17:42:10,084 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:40:09", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}: 37.5, "CO2": 0.325, "time": "2019-07-01 17:40:58", "Humi": 1.875, "NO2": 0.042}{"Humi": 1.875, "time
+2019-07-01 17:42:10,744 State changed from Running to Receiving
+2019-07-01 17:42:10,744 Receiving data [1]
+2019-07-01 17:42:13,441 State changed from Receiving to Running
+2019-07-01 17:42:13,442 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:40:09", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}: 37.5, "CO2": 0.325, "time": "2019-07-01 17:40:58", "Humi": 1.875, "NO2": 0.042}{"Humi": 1.875, "time": "201
+2019-07-01 17:42:14,269 State changed from Running to Receiving
+2019-07-01 17:42:14,269 Receiving data [1]
+2019-07-01 17:42:17,003 State changed from Receiving to Running
+2019-07-01 17:42:17,003 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:40:09", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}: 37.5, "CO2": 0.325, "time": "2019-07-01 17:40:58", "Humi": 1.875, "NO2": 0.042}{"Humi": 1.875, "time": "2019-07-01
+2019-07-01 17:42:17,716 State changed from Running to Receiving
+2019-07-01 17:42:17,717 Receiving data [1]
+2019-07-01 17:42:20,624 State changed from Receiving to Running
+2019-07-01 17:42:20,624 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:40:09", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}: 37.5, "CO2": 0.325, "time": "2019-07-01 17:40:58", "Humi": 1.875, "NO2": 0.042}{"Humi": 1.875, "time": "2019-07-01 17:41:
+2019-07-01 17:42:21,264 State changed from Running to Receiving
+2019-07-01 17:42:21,264 Receiving data [1]
+2019-07-01 17:42:24,055 State changed from Receiving to Running
+2019-07-01 17:42:24,055 [ Failed to decode message! ]
+2019-07-01 17:42:24,884 State changed from Running to Receiving
+2019-07-01 17:42:24,885 Receiving data [1]
+2019-07-01 17:42:27,584 State changed from Receiving to Running
+2019-07-01 17:42:27,584 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:40:09", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}: 37.5, "CO2": 0.325, "time": "2019-07-01 17:40:58", "Humi": 1.875, "NO2": 0.042}{"Humi": 1.875, "time": "2019-07-01 17:41:emp": 3
+2019-07-01 17:42:28,339 State changed from Running to Receiving
+2019-07-01 17:42:28,340 Receiving data [1]
+2019-07-01 17:42:31,217 State changed from Receiving to Running
+2019-07-01 17:42:31,218 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:40:09", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}: 37.5, "CO2": 0.325, "time": "2019-07-01 17:40:58", "Humi": 1.875, "NO2": 0.042}{"Humi": 1.875, "time": "2019-07-01 17:41:emp": 37.5, "N
+2019-07-01 17:42:31,764 State changed from Running to Receiving
+2019-07-01 17:42:31,764 Receiving data [1]
+2019-07-01 17:42:34,664 State changed from Receiving to Running
+2019-07-01 17:42:34,664 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:40:09", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}: 37.5, "CO2": 0.325, "time": "2019-07-01 17:40:58", "Humi": 1.875, "NO2": 0.042}{"Humi": 1.875, "time": "2019-07-01 17:41:emp": 37.5, "NO2": 0.
+2019-07-01 17:42:35,307 State changed from Running to Receiving
+2019-07-01 17:42:35,307 Receiving data [1]
+2019-07-01 17:42:38,022 State changed from Receiving to Running
+2019-07-01 17:42:38,022 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:40:09", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}: 37.5, "CO2": 0.325, "time": "2019-07-01 17:40:58", "Humi": 1.875, "NO2": 0.042}{"Humi": 1.875, "time": "2019-07-01 17:41:emp": 37.5, "NO2": 0.042, "C
+2019-07-01 17:42:38,858 State changed from Running to Receiving
+2019-07-01 17:42:38,858 Receiving data [1]
+2019-07-01 17:42:41,677 State changed from Receiving to Running
+2019-07-01 17:42:41,678 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:40:09", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}: 37.5, "CO2": 0.325, "time": "2019-07-01 17:40:58", "Humi": 1.875, "NO2": 0.042}{"Humi": 1.875, "time": "2019-07-01 17:41:emp": 37.5, "NO2": 0.042, "CO2": 0.
+2019-07-01 17:42:42,245 State changed from Running to Receiving
+2019-07-01 17:42:42,245 Receiving data [1]
+2019-07-01 17:42:44,316 State changed from Receiving to Running
+2019-07-01 17:42:44,316 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:40:09", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}: 37.5, "CO2": 0.325, "time": "2019-07-01 17:40:58", "Humi": 1.875, "NO2": 0.042}{"Humi": 1.875, "time": "2019-07-01 17:41:emp": 37.5, "NO2": 0.042, "CO2": 0.325}
+2019-07-01 17:42:50,655 State changed from Running to Receiving
+2019-07-01 17:42:50,655 Receiving data [1]
+2019-07-01 17:42:52,034 State changed from Receiving to Running
+2019-07-01 17:42:52,035 State changed from Running to Sending
+2019-07-01 17:42:53,816 State changed from Sending to Running
+2019-07-01 17:42:53,817 Sent: #1 [ch7]
+2019-07-01 17:42:55,511 State changed from Running to Receiving
+2019-07-01 17:42:55,511 Receiving data [1]
+2019-07-01 17:42:58,320 State changed from Receiving to Running
+2019-07-01 17:42:58,320 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:40:09", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}: 37.5, "CO2": 0.325, "time": "2019-07-01 17:40:58", "Humi": 1.875, "NO2": 0.042}{"Humi": 1.875, "time": "2019-07-01 17:41:emp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi"
+2019-07-01 17:42:59,156 State changed from Running to Receiving
+2019-07-01 17:42:59,157 Receiving data [1]
+2019-07-01 17:43:01,845 State changed from Receiving to Running
+2019-07-01 17:43:01,845 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:40:09", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}: 37.5, "CO2": 0.325, "time": "2019-07-01 17:40:58", "Humi": 1.875, "NO2": 0.042}{"Humi": 1.875, "time": "2019-07-01 17:41:emp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875
+2019-07-01 17:43:02,606 State changed from Running to Receiving
+2019-07-01 17:43:02,606 Receiving data [1]
+2019-07-01 17:43:05,490 State changed from Receiving to Running
+2019-07-01 17:43:05,490 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:40:09", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}: 37.5, "CO2": 0.325, "time": "2019-07-01 17:40:58", "Humi": 1.875, "NO2": 0.042}{"Humi": 1.875, "time": "2019-07-01 17:41:emp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time
+2019-07-01 17:43:06,152 State changed from Running to Receiving
+2019-07-01 17:43:06,152 Receiving data [1]
+2019-07-01 17:43:09,029 State changed from Receiving to Running
+2019-07-01 17:43:09,029 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:40:09", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}: 37.5, "CO2": 0.325, "time": "2019-07-01 17:40:58", "Humi": 1.875, "NO2": 0.042}{"Humi": 1.875, "time": "2019-07-01 17:41:emp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "201
+2019-07-01 17:43:09,624 State changed from Running to Receiving
+2019-07-01 17:43:09,625 Receiving data [1]
+2019-07-01 17:43:12,328 State changed from Receiving to Running
+2019-07-01 17:43:12,329 [ Failed to decode message! ]
+2019-07-01 17:43:13,140 State changed from Running to Receiving
+2019-07-01 17:43:13,140 Receiving data [1]
+2019-07-01 17:43:15,993 State changed from Receiving to Running
+2019-07-01 17:43:15,994 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:40:09", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}: 37.5, "CO2": 0.325, "time": "2019-07-01 17:40:58", "Humi": 1.875, "NO2": 0.042}{"Humi": 1.875, "time": "2019-07-01 17:41:emp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "201 17:42:
+2019-07-01 17:43:16,694 State changed from Running to Receiving
+2019-07-01 17:43:16,695 Receiving data [1]
+2019-07-01 17:43:19,529 State changed from Receiving to Running
+2019-07-01 17:43:19,530 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:40:09", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}: 37.5, "CO2": 0.325, "time": "2019-07-01 17:40:58", "Humi": 1.875, "NO2": 0.042}{"Humi": 1.875, "time": "2019-07-01 17:41:emp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "201 17:42:54", "T
+2019-07-01 17:43:20,255 State changed from Running to Receiving
+2019-07-01 17:43:20,255 Receiving data [1]
+2019-07-01 17:43:23,014 State changed from Receiving to Running
+2019-07-01 17:43:23,015 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:40:09", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}: 37.5, "CO2": 0.325, "time": "2019-07-01 17:40:58", "Humi": 1.875, "NO2": 0.042}{"Humi": 1.875, "time": "2019-07-01 17:41:emp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "201 17:42:54", "Temp": 3
+2019-07-01 17:43:23,833 State changed from Running to Receiving
+2019-07-01 17:43:23,834 Receiving data [1]
+2019-07-01 17:43:26,489 State changed from Receiving to Running
+2019-07-01 17:43:26,563 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:40:09", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}: 37.5, "CO2": 0.325, "time": "2019-07-01 17:40:58", "Humi": 1.875, "NO2": 0.042}{"Humi": 1.875, "time": "2019-07-01 17:41:emp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "201 17:42:54", "Temp": 37.5, "N
+2019-07-01 17:43:27,230 State changed from Running to Receiving
+2019-07-01 17:43:27,230 Receiving data [1]
+2019-07-01 17:43:29,991 State changed from Receiving to Running
+2019-07-01 17:43:29,991 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:40:09", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}: 37.5, "CO2": 0.325, "time": "2019-07-01 17:40:58", "Humi": 1.875, "NO2": 0.042}{"Humi": 1.875, "time": "2019-07-01 17:41:emp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "201 17:42:54", "Temp": 37.5, "NO2": 0.
+2019-07-01 17:43:30,642 State changed from Running to Receiving
+2019-07-01 17:43:30,643 Receiving data [1]
+2019-07-01 17:43:33,501 State changed from Receiving to Running
+2019-07-01 17:43:33,501 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:40:09", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}: 37.5, "CO2": 0.325, "time": "2019-07-01 17:40:58", "Humi": 1.875, "NO2": 0.042}{"Humi": 1.875, "time": "2019-07-01 17:41:emp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "201 17:42:54", "Temp": 37.5, "NO2": 0.042, "C
+2019-07-01 17:43:33,812 State changed from Running to Receiving
+2019-07-01 17:43:33,812 Receiving data [1]
+2019-07-01 17:43:35,252 State changed from Receiving to Running
+2019-07-01 17:43:35,252 [ Failed to decode message! ]
+2019-07-01 17:43:37,690 State changed from Running to Receiving
+2019-07-01 17:43:37,690 Receiving data [1]
+2019-07-01 17:43:39,668 State changed from Receiving to Running
+2019-07-01 17:43:39,668 [ Received data ] {"Humi": 1.875, "time": "2019-07-01 17:38:22", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:39:16", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "2019-07-01 17:40:09", "Temp": 37.5, "NO2": 0.042, "CO2": 0.325}: 37.5, "CO2": 0.325, "time": "2019-07-01 17:40:58", "Humi": 1.875, "NO2": 0.042}{"Humi": 1.875, "time": "2019-07-01 17:41:emp": 37.5, "NO2": 0.042, "CO2": 0.325}{"Humi": 1.875, "time": "201 17:42:54", "Temp": 37.5, "NO2": 0.042, "C325}
